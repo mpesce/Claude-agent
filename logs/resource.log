@@ -466,3 +466,145 @@
 [2025-11-02T12:30:01+11:00] Health check - CPU: 18.6%, Memory: 954MB, Disk: 8803MB, Health: green
 [2025-11-02T12:35:01+11:00] Health check - CPU: 17.1%, Memory: 991MB, Disk: 8803MB, Health: green
 [2025-11-02T12:36:16+11:00] Starting GitHub backup...
+[2025-11-02T12:36:16+11:00] GitHub backup completed successfully
+[2025-11-02T12:40:01+11:00] Health check - CPU: 9.3%, Memory: 890MB, Disk: 8802MB, Health: green
+[2025-11-02T12:45:01+11:00] Health check - CPU: 4.8%, Memory: 890MB, Disk: 8802MB, Health: green
+[2025-11-02T12:50:01+11:00] Health check - CPU: 7.1%, Memory: 890MB, Disk: 8802MB, Health: green
+[2025-11-02T12:55:01+11:00] Health check - CPU: 4.7%, Memory: 890MB, Disk: 8802MB, Health: green
+[2025-11-02T13:00:01+11:00] State backed up: 20251102_130001
+[2025-11-02T13:00:01+11:00] Health check - CPU: 20%, Memory: 892MB, Disk: 8802MB, Health: green
+[2025-11-02T13:05:01+11:00] Health check - CPU: 6.7%, Memory: 888MB, Disk: 8802MB, Health: green
+[2025-11-02T13:10:01+11:00] Health check - CPU: 11.4%, Memory: 889MB, Disk: 8802MB, Health: green
+[2025-11-02T13:15:01+11:00] Health check - CPU: 6.7%, Memory: 890MB, Disk: 8802MB, Health: green
+[2025-11-02T13:20:01+11:00] Health check - CPU: 8.9%, Memory: 889MB, Disk: 8802MB, Health: green
+[2025-11-02T13:25:01+11:00] Health check - CPU: 6.5%, Memory: 889MB, Disk: 8802MB, Health: green
+[2025-11-02T13:30:01+11:00] Health check - CPU: 7%, Memory: 1294MB, Disk: 8802MB, Health: green
+[2025-11-02T13:35:01+11:00] Health check - CPU: 13.6%, Memory: 1316MB, Disk: 8802MB, Health: green
+[2025-11-02T13:40:01+11:00] Health check - CPU: 7.1%, Memory: 1338MB, Disk: 8802MB, Health: green
+[2025-11-02T13:45:01+11:00] Health check - CPU: 6.8%, Memory: 1351MB, Disk: 8802MB, Health: green
+[2025-11-02T13:50:01+11:00] Health check - CPU: 8.9%, Memory: 1350MB, Disk: 8802MB, Health: green
+[2025-11-02T13:55:01+11:00] Health check - CPU: 6.5%, Memory: 1144MB, Disk: 8802MB, Health: green
+[2025-11-02T14:00:01+11:00] State backed up: 20251102_140001
+[2025-11-02T14:00:01+11:00] Health check - CPU: 15.6%, Memory: 1145MB, Disk: 8802MB, Health: green
+[2025-11-02T14:05:02+11:00] Health check - CPU: 6.4%, Memory: 1143MB, Disk: 8802MB, Health: green
+[2025-11-02T14:10:01+11:00] Health check - CPU: 9.3%, Memory: 1143MB, Disk: 8802MB, Health: green
+[2025-11-02T14:15:01+11:00] Health check - CPU: 6.7%, Memory: 1143MB, Disk: 8802MB, Health: green
+[2025-11-02T14:20:01+11:00] Health check - CPU: 8.9%, Memory: 851MB, Disk: 8802MB, Health: green
+[2025-11-02T14:25:01+11:00] Health check - CPU: 4.4%, Memory: 855MB, Disk: 8802MB, Health: green
+[2025-11-02T14:30:01+11:00] Health check - CPU: 2.2%, Memory: 664MB, Disk: 8802MB, Health: green
+[2025-11-02T14:35:01+11:00] Health check - CPU: 2.4%, Memory: 670MB, Disk: 8802MB, Health: green
+[2025-11-02T14:40:01+11:00] Health check - CPU: 9.5%, Memory: 669MB, Disk: 8802MB, Health: green
+[2025-11-02T14:45:01+11:00] Health check - CPU: 2.4%, Memory: 667MB, Disk: 8802MB, Health: green
+[2025-11-02T14:50:01+11:00] Health check - CPU: 4.4%, Memory: 662MB, Disk: 8802MB, Health: green
+[2025-11-02T14:55:01+11:00] Health check - CPU: 2.4%, Memory: 669MB, Disk: 8802MB, Health: green
+[2025-11-02T15:00:01+11:00] State backed up: 20251102_150001
+[2025-11-02T15:00:01+11:00] Health check - CPU: 14.6%, Memory: 663MB, Disk: 8802MB, Health: green
+[2025-11-02T15:05:01+11:00] Health check - CPU: 4.7%, Memory: 663MB, Disk: 8802MB, Health: green
+[2025-11-02T15:10:01+11:00] Health check - CPU: 4.4%, Memory: 665MB, Disk: 8802MB, Health: green
+[2025-11-02T15:15:01+11:00] Health check - CPU: 6.7%, Memory: 666MB, Disk: 8802MB, Health: green
+[2025-11-02T15:35:01+11:00] Health check - CPU: 6.8%, Memory: 668MB, Disk: 8802MB, Health: green
+[2025-11-02T15:40:01+11:00] Health check - CPU: 8.9%, Memory: 668MB, Disk: 8802MB, Health: green
+[2025-11-02T15:45:01+11:00] Health check - CPU: 4.7%, Memory: 671MB, Disk: 8802MB, Health: green
+[2025-11-02T15:50:01+11:00] Health check - CPU: 7%, Memory: 382MB, Disk: 8801MB, Health: green
+[2025-11-02T15:55:01+11:00] Health check - CPU: 6.7%, Memory: 372MB, Disk: 8801MB, Health: green
+[2025-11-02T16:00:01+11:00] State backed up: 20251102_160001
+[2025-11-02T16:00:01+11:00] Health check - CPU: 16.3%, Memory: 695MB, Disk: 8801MB, Health: green
+[2025-11-02T16:05:01+11:00] Health check - CPU: 4.9%, Memory: 702MB, Disk: 8801MB, Health: green
+[2025-11-02T16:10:01+11:00] Health check - CPU: 9.3%, Memory: 669MB, Disk: 8801MB, Health: green
+[2025-11-02T16:15:01+11:00] Health check - CPU: 2.4%, Memory: 372MB, Disk: 8801MB, Health: green
+[2025-11-02T16:20:01+11:00] Health check - CPU: 7.5%, Memory: 396MB, Disk: 8800MB, Health: green
+[2025-11-02T16:25:01+11:00] Health check - CPU: 4.5%, Memory: 402MB, Disk: 8797MB, Health: green
+[2025-11-02T16:30:01+11:00] Health check - CPU: 6.8%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T16:35:01+11:00] Health check - CPU: 4.5%, Memory: 374MB, Disk: 8797MB, Health: green
+[2025-11-02T16:40:01+11:00] Health check - CPU: 4.7%, Memory: 375MB, Disk: 8797MB, Health: green
+[2025-11-02T16:45:01+11:00] Health check - CPU: 4.7%, Memory: 375MB, Disk: 8797MB, Health: green
+[2025-11-02T16:50:01+11:00] Health check - CPU: 7.3%, Memory: 375MB, Disk: 8797MB, Health: green
+[2025-11-02T16:55:01+11:00] Health check - CPU: 7%, Memory: 375MB, Disk: 8797MB, Health: green
+[2025-11-02T17:00:01+11:00] State backed up: 20251102_170001
+[2025-11-02T17:00:01+11:00] Health check - CPU: 17.8%, Memory: 376MB, Disk: 8797MB, Health: green
+[2025-11-02T17:05:01+11:00] Health check - CPU: 4.7%, Memory: 372MB, Disk: 8797MB, Health: green
+[2025-11-02T17:10:01+11:00] Health check - CPU: 9.5%, Memory: 372MB, Disk: 8797MB, Health: green
+[2025-11-02T17:15:01+11:00] Health check - CPU: 2.3%, Memory: 378MB, Disk: 8797MB, Health: green
+[2025-11-02T17:35:02+11:00] Health check - CPU: 4.7%, Memory: 378MB, Disk: 8797MB, Health: green
+[2025-11-02T17:40:01+11:00] Health check - CPU: 2.4%, Memory: 374MB, Disk: 8797MB, Health: green
+[2025-11-02T17:45:01+11:00] Health check - CPU: 2.3%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T17:50:01+11:00] Health check - CPU: 6.8%, Memory: 374MB, Disk: 8797MB, Health: green
+[2025-11-02T17:55:01+11:00] Health check - CPU: 0%, Memory: 374MB, Disk: 8797MB, Health: green
+[2025-11-02T18:00:01+11:00] State backed up: 20251102_180001
+[2025-11-02T18:00:01+11:00] Health check - CPU: 16.7%, Memory: 377MB, Disk: 8797MB, Health: green
+[2025-11-02T18:05:01+11:00] Health check - CPU: 2.3%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T18:10:01+11:00] Health check - CPU: 6.7%, Memory: 374MB, Disk: 8797MB, Health: green
+[2025-11-02T18:15:01+11:00] Health check - CPU: 0%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T18:20:01+11:00] Health check - CPU: 2.5%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T18:25:01+11:00] Health check - CPU: 2.3%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T18:30:01+11:00] Health check - CPU: 7.1%, Memory: 377MB, Disk: 8797MB, Health: green
+[2025-11-02T18:35:01+11:00] Health check - CPU: 2.4%, Memory: 369MB, Disk: 8797MB, Health: green
+[2025-11-02T18:40:01+11:00] Health check - CPU: 9.5%, Memory: 371MB, Disk: 8797MB, Health: green
+[2025-11-02T19:25:01+11:00] Health check - CPU: 2.4%, Memory: 379MB, Disk: 8797MB, Health: green
+[2025-11-02T19:30:01+11:00] Health check - CPU: 13%, Memory: 377MB, Disk: 8797MB, Health: green
+[2025-11-02T19:35:01+11:00] Health check - CPU: 6.5%, Memory: 377MB, Disk: 8797MB, Health: green
+[2025-11-02T19:40:01+11:00] Health check - CPU: 7%, Memory: 378MB, Disk: 8797MB, Health: green
+[2025-11-02T19:45:01+11:00] Health check - CPU: 2.4%, Memory: 377MB, Disk: 8797MB, Health: green
+[2025-11-02T19:50:01+11:00] Health check - CPU: 9.1%, Memory: 378MB, Disk: 8797MB, Health: green
+[2025-11-02T19:55:01+11:00] Health check - CPU: 4.5%, Memory: 377MB, Disk: 8797MB, Health: green
+[2025-11-02T20:00:01+11:00] State backed up: 20251102_200001
+[2025-11-02T20:00:01+11:00] Health check - CPU: 15.9%, Memory: 374MB, Disk: 8797MB, Health: green
+[2025-11-02T20:05:01+11:00] Health check - CPU: 0%, Memory: 366MB, Disk: 8797MB, Health: green
+[2025-11-02T20:10:01+11:00] Health check - CPU: 4.9%, Memory: 368MB, Disk: 8797MB, Health: green
+[2025-11-02T20:15:01+11:00] Health check - CPU: 0%, Memory: 370MB, Disk: 8797MB, Health: green
+[2025-11-02T20:20:01+11:00] Health check - CPU: 7.1%, Memory: 370MB, Disk: 8797MB, Health: green
+[2025-11-02T20:25:01+11:00] Health check - CPU: 4.7%, Memory: 371MB, Disk: 8797MB, Health: green
+[2025-11-02T20:45:42+11:00] Health check - CPU: 4.4%, Memory: 371MB, Disk: 8797MB, Health: green
+[2025-11-02T20:50:01+11:00] Health check - CPU: 4.5%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T20:55:01+11:00] Health check - CPU: 2.4%, Memory: 374MB, Disk: 8797MB, Health: green
+[2025-11-02T21:00:01+11:00] State backed up: 20251102_210001
+[2025-11-02T21:00:01+11:00] Health check - CPU: 13.3%, Memory: 372MB, Disk: 8797MB, Health: green
+[2025-11-02T21:05:01+11:00] Health check - CPU: 2.3%, Memory: 374MB, Disk: 8797MB, Health: green
+[2025-11-02T21:10:01+11:00] Health check - CPU: 4.9%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T21:15:01+11:00] Health check - CPU: 2.2%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T21:20:01+11:00] Health check - CPU: 4.5%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T21:25:01+11:00] Health check - CPU: 2.4%, Memory: 380MB, Disk: 8797MB, Health: green
+[2025-11-02T21:30:01+11:00] Health check - CPU: 7.1%, Memory: 371MB, Disk: 8797MB, Health: green
+[2025-11-02T21:35:01+11:00] Health check - CPU: 8.3%, Memory: 371MB, Disk: 8797MB, Health: green
+[2025-11-02T22:20:01+11:00] Health check - CPU: 7.1%, Memory: 371MB, Disk: 8797MB, Health: green
+[2025-11-02T22:25:01+11:00] Health check - CPU: 4.5%, Memory: 371MB, Disk: 8797MB, Health: green
+[2025-11-02T22:30:01+11:00] Health check - CPU: 4.5%, Memory: 372MB, Disk: 8797MB, Health: green
+[2025-11-02T23:10:01+11:00] Health check - CPU: 4.5%, Memory: 376MB, Disk: 8797MB, Health: green
+[2025-11-02T23:15:01+11:00] Health check - CPU: 2.4%, Memory: 370MB, Disk: 8797MB, Health: green
+[2025-11-02T23:20:01+11:00] Health check - CPU: 6.8%, Memory: 372MB, Disk: 8797MB, Health: green
+[2025-11-02T23:25:01+11:00] Health check - CPU: 4.8%, Memory: 372MB, Disk: 8797MB, Health: green
+[2025-11-02T23:30:01+11:00] Health check - CPU: 4.5%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T23:35:01+11:00] Health check - CPU: 2.3%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T23:40:01+11:00] Health check - CPU: 9.3%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T23:45:01+11:00] Health check - CPU: 2.4%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T23:50:01+11:00] Health check - CPU: 7%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-02T23:55:01+11:00] Health check - CPU: 2.4%, Memory: 373MB, Disk: 8797MB, Health: green
+[2025-11-03T00:00:01+11:00] State backed up: 20251103_000001
+[2025-11-03T00:00:01+11:00] Health check - CPU: 32.5%, Memory: 390MB, Disk: 8796MB, Health: green
+[2025-11-03T00:05:01+11:00] Health check - CPU: 2.4%, Memory: 378MB, Disk: 8796MB, Health: green
+[2025-11-03T00:40:01+11:00] Health check - CPU: 7.1%, Memory: 380MB, Disk: 8795MB, Health: green
+[2025-11-03T00:45:01+11:00] Health check - CPU: 4.8%, Memory: 374MB, Disk: 8795MB, Health: green
+[2025-11-03T00:50:01+11:00] Health check - CPU: 6.8%, Memory: 375MB, Disk: 8795MB, Health: green
+[2025-11-03T00:55:01+11:00] Health check - CPU: 2.3%, Memory: 374MB, Disk: 8795MB, Health: green
+[2025-11-03T01:00:01+11:00] State backed up: 20251103_010001
+[2025-11-03T01:00:01+11:00] Health check - CPU: 13.3%, Memory: 375MB, Disk: 8795MB, Health: green
+[2025-11-03T01:05:01+11:00] Health check - CPU: 2.2%, Memory: 371MB, Disk: 8795MB, Health: green
+[2025-11-03T01:10:02+11:00] Health check - CPU: 8.9%, Memory: 373MB, Disk: 8795MB, Health: green
+[2025-11-03T01:15:01+11:00] Health check - CPU: 4.3%, Memory: 373MB, Disk: 8795MB, Health: green
+[2025-11-03T01:20:01+11:00] Health check - CPU: 4.9%, Memory: 375MB, Disk: 8795MB, Health: green
+[2025-11-03T01:25:01+11:00] Health check - CPU: 4.7%, Memory: 373MB, Disk: 8795MB, Health: green
+[2025-11-03T01:30:01+11:00] Health check - CPU: 7.3%, Memory: 373MB, Disk: 8795MB, Health: green
+[2025-11-03T01:35:01+11:00] Health check - CPU: 2.4%, Memory: 375MB, Disk: 8795MB, Health: green
+[2025-11-03T01:40:01+11:00] Health check - CPU: 6.7%, Memory: 375MB, Disk: 8795MB, Health: green
+[2025-11-03T01:45:01+11:00] Health check - CPU: 2.4%, Memory: 378MB, Disk: 8795MB, Health: green
+[2025-11-03T02:20:58+11:00] Health check - CPU: 2.3%, Memory: 374MB, Disk: 8795MB, Health: green
+[2025-11-03T02:25:01+11:00] Health check - CPU: 2.3%, Memory: 375MB, Disk: 8795MB, Health: green
+[2025-11-03T02:30:01+11:00] Health check - CPU: 6.8%, Memory: 374MB, Disk: 8795MB, Health: green
+[2025-11-03T02:35:01+11:00] Health check - CPU: 4.5%, Memory: 381MB, Disk: 8795MB, Health: green
+[2025-11-03T02:40:01+11:00] Health check - CPU: 6.8%, Memory: 373MB, Disk: 8795MB, Health: green
+[2025-11-03T02:45:01+11:00] Health check - CPU: 4.8%, Memory: 374MB, Disk: 8795MB, Health: green
+[2025-11-03T02:50:01+11:00] Health check - CPU: 2.4%, Memory: 376MB, Disk: 8795MB, Health: green
+[2025-11-03T02:55:01+11:00] Health check - CPU: 2.2%, Memory: 377MB, Disk: 8795MB, Health: green
+[2025-11-03T03:00:01+11:00] Starting GitHub backup...
+[2025-11-03T03:00:01+11:00] State backed up: 20251103_030001
+[2025-11-03T03:00:01+11:00] Health check - CPU: 26.8%, Memory: 386MB, Disk: 8794MB, Health: green
