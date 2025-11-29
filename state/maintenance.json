@@ -2,9 +2,9 @@
   "current_state": {
     "status": "operational",
     "active_tasks": 0,
-    "last_health_check": "2025-11-29T02:25:01+11:00",
-    "cpu_percent_avg": 6.8,
-    "memory_mb_used": 452
+    "last_health_check": "2025-11-30T03:00:01+11:00",
+    "cpu_percent_avg": 33.3,
+    "memory_mb_used": 478
   },
   "resource_limits": {
     "cpu_percent_max": 80,
